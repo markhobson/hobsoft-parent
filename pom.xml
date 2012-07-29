@@ -34,18 +34,6 @@
 		</license>
 	</licenses>
 	
-	<developers>
-		<developer>
-			<id>markhobson</id>
-			<name>Mark Hobson</name>
-			<email>markhobson@gmail.com</email>
-			<roles>
-				<role>Project Lead</role>
-			</roles>
-			<timezone>0</timezone>
-		</developer>
-	</developers>
-	
 	<prerequisites>
 		<maven>3.0.4</maven>
 	</prerequisites>
@@ -194,19 +182,6 @@
 		</profile>
 	</profiles>
 	
-	<dependencies>
-	
-		<!-- test -->
-		
-		<dependency>
-			<groupId>org.jmock</groupId>
-			<artifactId>jmock-junit4</artifactId>
-			<version>2.5.1</version>
-			<scope>test</scope>
-		</dependency>
-	
-	</dependencies>
-
 	<reporting>
 		<plugins>
 			<plugin>
