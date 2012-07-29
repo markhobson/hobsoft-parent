@@ -16,14 +16,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.hobsoft.entangle</groupId>
-	<artifactId>entangle</artifactId>
-	<packaging>jar</packaging>
+	<groupId>org.hobsoft</groupId>
+	<artifactId>hobsoft-parent</artifactId>
+	<packaging>pom</packaging>
 	<version>0.1.0-SNAPSHOT</version>
 	
-	<name>Entangle</name>
-	<description>A simple data-binding framework for Java.</description>
-	<url>https://github.com/markhobson/entangle</url>
+	<name>Hobsoft Parent</name>
+	<description>Parent POM for Hobsoft projects.</description>
+	<url>https://github.com/markhobson/hobsoft-parent</url>
 	<inceptionYear>2011</inceptionYear>
 	
 	<licenses>
@@ -51,14 +51,14 @@
 	</prerequisites>
 	
 	<scm>
-		<connection>scm:git:git@github.com:markhobson/entangle.git</connection>
-		<developerConnection>scm:git:git@github.com:markhobson/entangle.git</developerConnection>
-		<url>https://github.com/markhobson/entangle.git</url>
+		<connection>scm:git:git@github.com:markhobson/hobsoft-parent.git</connection>
+		<developerConnection>scm:git:git@github.com:markhobson/hobsoft-parent.git</developerConnection>
+		<url>https://github.com/markhobson/hobsoft-parent.git</url>
 	</scm>
 	
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/markhobson/entangle/issues</url>
+		<url>https://github.com/markhobson/hobsoft-parent/issues</url>
 	</issueManagement>
 	
 	<properties>
