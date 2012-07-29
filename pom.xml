@@ -41,7 +41,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:markhobson/hobsoft-parent.git</connection>
 		<developerConnection>scm:git:git@github.com:markhobson/hobsoft-parent.git</developerConnection>
-		<url>https://github.com/markhobson/hobsoft-parent.git</url>
+		<url>https://github.com/markhobson/hobsoft-parent</url>
 	</scm>
 	
 	<issueManagement>
