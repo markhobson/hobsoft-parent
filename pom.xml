@@ -24,7 +24,7 @@
 	<name>Hobsoft Parent</name>
 	<description>Parent POM for Hobsoft projects.</description>
 	<url>https://github.com/markhobson/hobsoft-parent</url>
-	<inceptionYear>2011</inceptionYear>
+	<inceptionYear>2012</inceptionYear>
 	
 	<licenses>
 		<license>
