@@ -1,7 +1,7 @@
 Hobsoft Parent
 ==============
 
-Parent POM for Hobsoft projects.
+Parent POM for [Hobsoft](http://www.hobsoft.org/) projects.
 
 License
 -------
