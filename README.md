@@ -1,4 +1,4 @@
-hobsoft-parent
+Hobsoft Parent
 ==============
 
 Parent POM for Hobsoft projects.
