@@ -34,6 +34,18 @@
 		</license>
 	</licenses>
 	
+	<developers>
+		<developer>
+			<id>markhobson</id>
+			<name>Mark Hobson</name>
+			<email>markhobson@gmail.com</email>
+			<roles>
+				<role>Project Lead</role>
+			</roles>
+			<timezone>0</timezone>
+		</developer>
+	</developers>
+	
 	<prerequisites>
 		<maven>3.0.4</maven>
 	</prerequisites>
