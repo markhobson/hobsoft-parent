@@ -75,7 +75,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-checkstyle-plugin</artifactId>
-					<version>2.9.1</version>
+					<version>2.10</version>
 					<configuration>
 						<configLocation>checkstyle.xml</configLocation>
 						<headerLocation>header.txt</headerLocation>
@@ -86,7 +86,7 @@
 						<dependency>
 							<groupId>org.hobsoft</groupId>
 							<artifactId>hobsoft-build</artifactId>
-							<version>0.1.1</version>
+							<version>0.1.2-SNAPSHOT</version>
 						</dependency>
 					</dependencies>
 				</plugin>
