@@ -195,6 +195,16 @@
 					<version>2.6</version>
 				</plugin>
 				
+				<plugin>
+					<groupId>org.sonatype.plugins</groupId>
+					<artifactId>nexus-staging-maven-plugin</artifactId>
+					<version>1.6.5</version>
+					<configuration>
+						<serverId>sonatype-nexus-staging</serverId>
+						<nexusUrl>https://oss.sonatype.org/</nexusUrl>
+					</configuration>
+				</plugin>
+				
 			</plugins>
 			
 		</pluginManagement>
