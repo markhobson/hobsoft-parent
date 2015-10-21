@@ -19,7 +19,7 @@
 	<groupId>org.hobsoft</groupId>
 	<artifactId>hobsoft-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>0.3.0</version>
+	<version>0.3.1-SNAPSHOT</version>
 	
 	<name>Hobsoft Parent</name>
 	<description>Parent POM for Hobsoft projects.</description>
@@ -53,7 +53,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:markhobson/hobsoft-parent.git</connection>
 		<developerConnection>scm:git:git@github.com:markhobson/hobsoft-parent.git</developerConnection>
-		<tag>0.3.0</tag>
+		<tag>HEAD</tag>
 		<url>https://github.com/markhobson/hobsoft-parent</url>
 	</scm>
 	
