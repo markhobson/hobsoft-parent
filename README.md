@@ -20,4 +20,4 @@ To release a new version:
 
 * [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-[![Build Status](https://travis-ci.org/markhobson/hobsoft-parent.svg?branch=master)](https://travis-ci.org/markhobson/hobsoft-parent)
+![Build Status](https://github.com/markhobson/hobsoft-parent/actions/workflows/ci.yml/badge.svg)
