@@ -81,7 +81,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-checkstyle-plugin</artifactId>
-					<version>3.1.0</version>
+					<version>3.1.2</version>
 					<configuration>
 						<configLocation>checkstyle.xml</configLocation>
 						<headerLocation>header.txt</headerLocation>
@@ -92,12 +92,12 @@
 						<dependency>
 							<groupId>com.puppycrawl.tools</groupId>
 							<artifactId>checkstyle</artifactId>
-							<version>8.29</version>
+							<version>9.3</version>
 						</dependency>
 						<dependency>
 							<groupId>org.hobsoft</groupId>
 							<artifactId>hobsoft-build</artifactId>
-							<version>0.3.2</version>
+							<version>0.3.3</version>
 						</dependency>
 					</dependencies>
 				</plugin>
